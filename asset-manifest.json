@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gfinder/static/css/main.39491247.chunk.css",
+    "main.js": "/Gfinder/static/js/main.5e011d2d.chunk.js",
+    "main.js.map": "/Gfinder/static/js/main.5e011d2d.chunk.js.map",
+    "runtime-main.js": "/Gfinder/static/js/runtime-main.49d2cad7.js",
+    "runtime-main.js.map": "/Gfinder/static/js/runtime-main.49d2cad7.js.map",
+    "static/js/2.21d588ef.chunk.js": "/Gfinder/static/js/2.21d588ef.chunk.js",
+    "static/js/2.21d588ef.chunk.js.map": "/Gfinder/static/js/2.21d588ef.chunk.js.map",
+    "index.html": "/Gfinder/index.html",
+    "precache-manifest.7404ba7b6d451fb64f5fcc272d6f2f24.js": "/Gfinder/precache-manifest.7404ba7b6d451fb64f5fcc272d6f2f24.js",
+    "service-worker.js": "/Gfinder/service-worker.js",
+    "static/css/main.39491247.chunk.css.map": "/Gfinder/static/css/main.39491247.chunk.css.map",
+    "static/js/2.21d588ef.chunk.js.LICENSE.txt": "/Gfinder/static/js/2.21d588ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d2cad7.js",
+    "static/js/2.21d588ef.chunk.js",
+    "static/css/main.39491247.chunk.css",
+    "static/js/main.5e011d2d.chunk.js"
+  ]
+}
